@@ -1,0 +1,19 @@
+{
+    "name": "STG1 and STG2",
+    "author": "Mayro",
+    "version": "1.0.0",
+
+    "description": "This is the official pack for STG1 and STG2, this includes the accurate color codes and emblems that appear in the videos. Basically just Creator Mario but color codes and emblems are changed.",
+
+    "cc_support": true,
+    "spark_support": true,
+
+    "colors": {
+        "shirt": "Buttons",
+        "shoulders": "Mustache",
+        "arms": "Emblem",
+        "pelvis": "",
+        "thighs": "",
+        "calves": ""
+    }
+}
